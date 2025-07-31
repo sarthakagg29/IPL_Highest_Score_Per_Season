@@ -43,7 +43,7 @@ This project analyzes IPL data to identify the top run scorer for each season, u
 
 ## Visualization
 
-
+![Top IPL Run Scorers Per Season](top_run_scorers_chart.png)
 ---
 
 ## Key Insights
